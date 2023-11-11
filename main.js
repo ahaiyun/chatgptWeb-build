@@ -13,7 +13,7 @@ function createWindow() {
     autoHideMenuBar: true // 隐藏菜单栏
   })
 
-  win.loadURL('https://ai.woftsun.cn')
+  win.loadURL('https://chatgpt.jjh.ink')
 }
 
 const template = [
